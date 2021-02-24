@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "creates readme file",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prestongeyer713/Readme-generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "preston geyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prestongeyer713/Readme-generator/issues"
+  },
+  "homepage": "https://github.com/Prestongeyer713/Readme-generator#readme"
+}
